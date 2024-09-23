@@ -1,0 +1,1389 @@
+
+[
+    {
+        "product_id": 1,
+        "category_id": 8,
+        "name_ru": "Adrenaline Rush 500ml",
+        "name_en": "Adrenaline Rush 500ml"
+    },
+    {
+        "product_id": 3,
+        "category_id": 8,
+        "name_ru": "Американо",
+        "name_en": "Americano"
+    },
+    {
+        "product_id": 4,
+        "category_id": 8,
+        "name_ru": "Барбикан 300мл",
+        "name_en": "Barbican 300ml"
+    },
+    {
+        "product_id": 5,
+        "category_id": 8,
+        "name_ru": "Капучино",
+        "name_en": "Cappuccino"
+    },
+    {
+        "product_id": 6,
+        "category_id": 8,
+        "name_ru": "Кола 330мл",
+        "name_en": "Cola 330ml"
+    },
+    {
+        "product_id": 7,
+        "category_id": 8,
+        "name_ru": "Фанта 330мл",
+        "name_en": "Fanta 330ml"
+    },
+    {
+        "product_id": 8,
+        "category_id": 8,
+        "name_ru": "Спрайт 330мл",
+        "name_en": "Sprite 330ml"
+    },
+    {
+        "product_id": 9,
+        "category_id": 8,
+        "name_ru": "Двойное Эспрессо",
+        "name_en": "Double Espresso"
+    },
+    {
+        "product_id": 10,
+        "category_id": 8,
+        "name_ru": "Эспрессо",
+        "name_en": "Espresso"
+    },
+    {
+        "product_id": 11,
+        "category_id": 8,
+        "name_ru": "Латте",
+        "name_en": "Latte"
+    },
+    {
+        "product_id": 12,
+        "category_id": 8,
+        "name_ru": "Ред Булл",
+        "name_en": "Red Bull"
+    },
+    {
+        "product_id": 13,
+        "category_id": 8,
+        "name_ru": "Рич Сок 1л",
+        "name_en": "Rich Juice 1L"
+    },
+    {
+        "product_id": 14,
+        "category_id": 8,
+        "name_ru": "Рич Сок 200мл",
+        "name_en": "Rich Juice 200ml"
+    },
+    {
+        "product_id": 15,
+        "category_id": 3,
+        "name_ru": "Yalpiz Люля",
+        "name_en": "Yalpiz Kebab"
+    },
+    {
+        "product_id": 16,
+        "category_id": 1,
+        "name_ru": "Азиатский",
+        "name_en": "Asian"
+    },
+    {
+        "product_id": 17,
+        "category_id": 8,
+        "name_ru": "Айран 1л",
+        "name_en": "Ayran 1L"
+    },
+    {
+        "product_id": 18,
+        "category_id": 8,
+        "name_ru": "Айран 400мл",
+        "name_en": "Ayran 400ml"
+    },
+    {
+        "product_id": 19,
+        "category_id": 8,
+        "name_ru": "Айс-ти 1л",
+        "name_en": "Iced Tea 1L"
+    },
+    {
+        "product_id": 20,
+        "category_id": 8,
+        "name_ru": "Айс-ти с Фруктами 400мл",
+        "name_en": "Iced Tea with Fruits 400ml"
+    },
+    {
+        "product_id": 21,
+        "category_id": 8,
+        "name_ru": "Апельсин Фреш 1л",
+        "name_en": "Orange Fresh 1L"
+    },
+    {
+        "product_id": 22,
+        "category_id": 8,
+        "name_ru": "Апельсиновый Фреш 400гр",
+        "name_en": "Orange Fresh 400g"
+    },
+    {
+        "product_id": 23,
+        "category_id": 8,
+        "name_ru": "Арбуз Нарезка",
+        "name_en": "Watermelon Slices"
+    },
+    {
+        "product_id": 24,
+        "category_id": 1,
+        "name_ru": "Аристократ",
+        "name_en": "Aristocrat"
+    },
+    {
+        "product_id": 25,
+        "category_id": 6,
+        "name_ru": "Ассорти Yalpiz на 4 Персон",
+        "name_en": "Yalpiz Assortment for 4 People"
+    },
+    {
+        "product_id": 26,
+        "category_id": 6,
+        "name_ru": "Ассорти Yalpiz на 6 Персон",
+        "name_en": "Yalpiz Assortment for 6 People"
+    },
+    {
+        "product_id": 27,
+        "category_id": 5,
+        "name_ru": "Афганский Хлеб",
+        "name_en": "Afghan Bread"
+    },
+    {
+        "product_id": 28,
+        "category_id": 1,
+        "name_ru": "Ачик-Чучук",
+        "name_en": "Achik-Chuchuk"
+    },
+    {
+        "product_id": 29,
+        "category_id": 1,
+        "name_ru": "Баклажан Свит Чилли",
+        "name_en": "Sweet Chili Eggplant"
+    },
+    {
+        "product_id": 30,
+        "category_id": 8,
+        "name_ru": "Банановый Шейк 400мл",
+        "name_en": "Banana Shake 400ml"
+    },
+    {
+      "product_id": 31,
+        "category_id": 3,
+        "name_ru": "Баранья Корейка",
+        "name_en": "Lamb Rack"
+    },
+    {
+        "product_id": 32,
+        "category_id": 8,
+        "name_ru": "Бардак Чай",
+        "name_en": "Messy Tea"
+    },
+    {
+        "product_id": 33,
+        "category_id": 3,
+        "name_ru": "Бедана Тухум",
+        "name_en": "Bodana Eggs"
+    },
+    {
+        "product_id": 34,
+        "category_id": 3,
+        "name_ru": "Бейти с Сыром",
+        "name_en": "Beiti with Cheese"
+    },
+    {
+        "product_id": 35,
+        "category_id": 3,
+        "name_ru": "Бефстроганов с Пюре",
+        "name_en": "Beef Stroganoff with Mashed Potatoes"
+    },
+    {
+        "product_id": 36,
+        "category_id": 0,
+        "name_ru": "Билинчик",
+        "name_en": "Bilinchik"
+    },
+    {
+        "product_id": 37,
+        "category_id": 8,
+        "name_ru": "Вафли с Морожнем",
+        "name_en": "Waffles with Ice Cream"
+    },
+    {
+        "product_id": 38,
+        "category_id": 1,
+        "name_ru": "Винегрет",
+        "name_en": "Vinaigrette"
+    },
+    {
+        "product_id": 39,
+        "category_id": 3,
+        "name_ru": "Гавяжий Колбаски",
+        "name_en": "Beef Sausages"
+    },
+    {
+        "product_id": 40,
+        "category_id": 0,
+        "name_ru": "Газли сув 1.5 л мариновкага",
+        "name_en": "Gazli Water 1.5L Marinated"
+    },
+    {
+        "product_id": 41,
+        "category_id": 2,
+        "name_ru": "Говяжий Суп с Грибами",
+        "name_en": "Beef Soup with Mushrooms"
+    },
+    {
+        "product_id": 42,
+        "category_id": 3,
+        "name_ru": "Говяжий Язык с грибами в сливочно-горчичном соусе",
+        "name_en": "Beef Tongue with Mushrooms in Creamy Mustard Sauce"
+    },
+    {
+        "product_id": 43,
+        "category_id": 4,
+        "name_ru": "Говяжья Ребро от Шефа",
+        "name_en": "Chef's Beef Rib"
+    },
+    {
+        "product_id": 44,
+        "category_id": 1,
+        "name_ru": "Греческий Салат",
+        "name_en": "Greek Salad"
+    },
+    {
+        "product_id": 45,
+        "category_id": 1,
+        "name_ru": "Греческий",
+        "name_en": "Greek",
+        "price": "48 000",
+        "photo": "yo'q"
+    },
+    {
+        "product_id": 46,
+        "category_id": 1,
+        "name_ru": "Грибной",
+        "name_en": "Mushroom",
+        "price": "49 000",
+        "photo": "13.07.24 Yalpiz food 0146.jpg"
+    },
+    {
+        "product_id": 47,
+        "category_id": 7,
+        "name_ru": "Дисерт",
+        "name_en": "Dessert",
+        "price": "35 000",
+        "photo": "desert-assorti.jpeg"
+    },
+    {
+        "product_id": 48,
+        "category_id": 9,
+        "name_ru": "Добавить Сыр",
+        "name_en": "Add Cheese",
+        "price": "9 000",
+        "photo": "sir.jpeg"
+    },
+    {
+        "product_id": 49,
+        "category_id": 3,
+        "name_ru": "Донер",
+        "name_en": "Doner",
+        "price": "78 000",
+        "photo": "doner.png"
+    },
+    {
+        "product_id": 50,
+        "category_id": 5,
+        "name_ru": "Донер Пицца",
+        "name_en": "Doner Pizza",
+        "price": "80 000",
+        "photo": "13.07.24 Yalpiz food 0448.jpg"
+    },
+    {
+        "product_id": 51,
+        "category_id": 1,
+        "name_ru": "Донер Салат",
+        "name_en": "Doner Salad",
+        "price": "52 000",
+        "photo": "13.07.24 Yalpiz food 0123.jpg"
+    },
+    {
+        "product_id": 52,
+        "category_id": 9,
+        "name_ru": "Дунганский Перец",
+        "name_en": "Dungan Pepper",
+        "price": "5 000",
+        "photo": "Дунганский Перец.jpeg"
+    },
+    {
+        "product_id": 53,
+        "category_id": 8,
+        "name_ru": "Дыня Нарезка",
+        "name_en": "Melon Slices",
+        "price": "25 000",
+        "photo": "Дыня Нарезка.jpeg"
+    },
+    {
+        "product_id": 54,
+        "category_id": 8,
+        "name_ru": "Дюшес 1л",
+        "name_en": "Dushes 1L",
+        "price": "50 000",
+        "photo": "chernogolovka_15_l_dyushes.png"
+    },
+    {
+        "product_id": 55,
+        "category_id": 8,
+        "name_ru": "Дюшес 400мл",
+        "name_en": "Dushes 400ml",
+        "price": "25 000",
+        "photo": "chernogolovka_15_l_dyushes.png"
+    },
+    {
+        "product_id": 56,
+        "category_id": 8,
+        "name_ru": "Жасминовый Чай",
+        "name_en": "Jasmine Tea",
+        "price": "20 000",
+        "photo": "jasmin choy.jpeg"
+    },
+    {
+        "product_id": 57,
+        "category_id": 8,
+        "name_ru": "Имбирный Чай",
+        "name_en": "Ginger Tea",
+        "price": "40 000",
+        "photo": "Imbir choy.jpeg"
+    },
+    {
+        "product_id": 58,
+        "category_id": 3,
+        "name_ru": "Искандер",
+        "name_en": "Iskander",
+        "price": "78 000",
+        "photo": "13.07.24 Yalpiz food 0288.jpg"
+    },
+    {
+        "product_id": 59,
+        "category_id": 3,
+        "name_ru": "Казы 1шт",
+        "name_en": "Kazy 1pc",
+        "price": "12 000",
+        "photo": "qazi.jpeg"
+    },
+    {
+        "product_id": 60,
+        "category_id": 8,
+        "name_ru": "Кампот 400мл",
+        "name_en": "Kompot 400ml",
+        "price": "12 000",
+        "photo": "Kompot.jpeg"
+    },
+    {
+        "product_id": 61,
+        "category_id": 8,
+        "name_ru": "Кампот Бонус",
+        "name_en": "Kompot Bonus",
+        "price": "0",
+        "photo": "0"
+    },
+    {
+        "product_id": 62,
+        "category_id": 9,
+        "name_ru": "Картофель по Деревенский",
+        "name_en": "Country-Style Potatoes",
+        "price": "21 000",
+        "photo": "Картофель по Деревенский.jpeg"
+    },
+    {
+        "product_id": 63,
+        "category_id": 9,
+        "name_ru": "Картофель фри",
+        "name_en": "French Fries",
+        "price": "17 000",
+        "photo": "kartoshka fri.jpeg"
+    },
+    {
+        "product_id": 64,
+        "category_id": 3,
+        "name_ru": "Кассап Кофте",
+        "name_en": "Kassap Kofta",
+        "price": "60 000",
+        "photo": "13.07.24 Yalpiz food 0282.jpg"
+    },
+    {
+        "product_id": 65,
+        "category_id": 3,
+        "name_ru": "Кассап Кофте с Сыром",
+        "name_en": "Kassap Kofta with Cheese",
+        "price": "68 000",
+        "photo": "13.07.24 Yalpiz food 0474.jpg"
+    },
+    {
+        "product_id": 66,
+        "category_id": 9,
+        "name_ru": "Кетчуп",
+        "name_en": "Ketchup",
+        "price": "5 000",
+        "photo": "ketchup.jpeg"
+    },
+    {
+        "product_id": 67,
+        "category_id": 8,
+        "name_ru": "Клубничный 1л",
+        "name_en": "Strawberry 1L",
+        "price": "50 000",
+        "photo": "Клубничный 1л.jpeg"
+    },
+    {
+        "product_id": 67,
+        "category_id": 8,
+        "name_ru": "Клубничный 400мл",
+        "name_en": "Strawberry 400ml",
+        "price": "35 000",
+        "photo": "Клубничный400мл.jpg"
+    },
+    {
+        "product_id": 68,
+        "category_id": 8,
+        "name_ru": "Клубнычный Шейк",
+        "name_en": "Strawberry Shake",
+        "price": "30 000",
+        "photo": "Клубнычный Шейк .jpg"
+    },
+    {
+        "product_id": 69,
+        "category_id": 0,
+        "name_ru": "Кола 0.5 Мариновкага",
+        "name_en": "Cola 0.5 Marinated",
+        "price": "0",
+        "photo": "0"
+    },
+    {
+        "product_id": 70,
+        "category_id": 8,
+        "name_ru": "cola  b",
+        "name_en": "cola  b",
+        "price": "12 000",
+        "photo": "Кола Банишний.jpg"
+    },
+    {
+        "product_id": 71,
+        "category_id": 8,
+        "name_ru": " ПепсиБанишний",
+        "name_en": "Pepsi Banishniy",
+        "price": "12 000",
+        "photo": "ПепсиБанишний.jpg"
+    },
+    {
+        "product_id": 72,
+        "category_id": 8,
+        "name_ru": "sprite b",
+        "name_en": "sprite b",
+        "price": "12 000",
+        "photo": "СпрайтБанишний.jpg"
+    },
+    {
+        "product_id": 73,
+        "category_id": 8,
+        "name_ru": "Cola 1.5",
+        "name_en": "Cola 1.5",
+        "price": "20 000",
+        "photo": "Кола 1.5л.jpg"
+    },
+    {
+        "product_id": 74,
+        "category_id": 8,
+        "name_ru": "fanta 1.5",
+        "name_en": "fanta 1.5",
+        "price": "20 000",
+        "photo": "Фанта 1.5л.jpg"
+    },
+    {
+        "product_id": 75,
+        "category_id": 8,
+        "name_ru": "sprite 1.5",
+        "name_en": "sprite 1.5",
+        "price": "20 000",
+        "photo": "Спрайт 1.5л.jpg"
+    },
+    {
+        "product_id": 75,
+        "category_id": 8,
+        "name_ru": "Pepesi 1.5",
+        "name_en": "Pepsi 1.5",
+        "price": "20 000",
+        "photo": "Пепси 1.5л.jpg"
+    },
+    {
+        "product_id": 76,
+        "category_id": 8,
+        "name_ru": "cola 0.5",
+        "name_en": "cola 0.5",
+        "price": "10 000",
+        "photo": "cola 0.5jpg"
+    },
+    {
+        "product_id": 77,
+        "category_id": 8,
+        "name_ru": "fanta 0.5",
+        "name_en": "fanta 0.5",
+        "price": "10 000",
+        "photo": "Фанта 500мл.jpg"
+    },
+    {
+        "product_id": 78,
+        "category_id": 8,
+        "name_ru": "sprite 0.5",
+        "name_en": "sprite 0.5",
+        "price": "10 000",
+        "photo": "Спрайт 500мл.jpg"
+    },
+    {
+        "product_id": 79,
+        "category_id": 8,
+        "name_ru": "pepsi 0.5",
+        "name_en": "pepsi 0.5",
+        "price": "10 000",
+        "photo": "Пепси 500мл.jpg"
+    },
+    {
+        "product_id": 80,
+        "category_id": 8,
+        "name_ru": "cola 1l",
+        "name_en": "cola 1l",
+        "price": "18 000",
+        "photo": "Кола1л.jpg"
+    },
+    {
+        "product_id": 81,
+        "category_id": 8,
+        "name_ru": "fanta 1l",
+        "name_en": "fanta 1l",
+        "price": "18 000",
+        "photo": "Фанта.1л.jpg"
+    },
+    {
+        "product_id": 82,
+        "category_id": 8,
+        "name_ru": "sprite 1l",
+        "name_en": "sprite 1l",
+        "price": "18 000",
+        "photo": "Спрайт 1л.jpg"
+    },
+    {
+        "product_id": 83,
+        "category_id": 8,
+        "name_ru": "Pepsi 1l",
+        "name_en": "Pepsi 1l",
+        "price": "18 000",
+        "photo": "Пепси 1л.jpg"
+    },
+    {
+        "product_id": 84,
+        "category_id": 8,
+        "name_ru": "cola 250ml",
+        "name_en": "cola 250ml",
+        "price": "15 000",
+        "photo": "Пепси 250мл.jpg"
+    },
+    {
+        "product_id": 85,
+        "category_id": 8,
+        "name_ru": "fanta 250ml",
+        "name_en": "fanta 250ml",
+        "price": "15 000",
+        "photo": "Фанта. 250мл.jpg"
+    },
+    {
+        "product_id": 86,
+        "category_id": 8,
+        "name_ru": "sprite 250ml",
+        "name_en": "sprite 250ml",
+        "price": "15 000",
+        "photo": "Спрайт 250мл.jpg"
+    },
+    {
+        "product_id": 87,
+        "category_id": 8,
+        "name_ru": "pepsi 250 ml",
+        "name_en": "pepsi 250 ml",
+        "price": "15 000",
+        "photo": "Пепси 250мл.jpg"
+    },
+    {
+        "product_id": 88,
+        "category_id": 3,
+        "name_ru": "Колбаски Говяжьи",
+        "name_en": "Beef Sausages",
+        "price": "62 000",
+        "photo": "Колбаски Говяжьи.jpg"
+    },
+    {
+        "product_id": 89,
+        "category_id": 3,
+        "name_ru": "Колбаски Куриные",
+        "name_en": "Chicken Sausages",
+        "price": "55 000",
+        "photo": "13.07.24 Yalpiz food 0317.jpg"
+    },
+    {
+        "product_id": 90,
+        "category_id": 8,
+        "name_ru": "Компот",
+        "name_en": "Kompot",
+        "price": "35 000",
+        "photo": "13.07.24 Yalpiz food 0014.jpg"
+    },
+    {
+        "product_id": 91,
+        "category_id": 3,
+        "name_ru": "Красная Капуста",
+        "name_en": "Red Cabbage",
+        "price": "5 000",
+        "photo": "Красная Капуста.jpeg"
+    },
+    {
+        "product_id": 92,
+        "category_id": 2,
+        "name_ru": "Куриная Лапша 0.5",
+        "name_en": "Chicken Noodle Soup 0.5",
+        "price": "11 000",
+        "photo": "Суп Куриная Лапша.png"
+    },
+    {
+        "product_id": 93,
+        "category_id": 3,
+        "name_ru": "Куриное Бонфиле",
+        "name_en": "Chicken Bonfile",
+        "price": "59 000",
+        "photo": "13.07.24 Yalpiz food 0265.jpg"
+    },
+    {
+        "product_id": 94,
+        "category_id": 3,
+        "name_ru": "Куриное Соте",
+        "name_en": "Chicken Sote",
+        "price": "58 000",
+        "photo": "13.07.24 Yalpiz food 0186.jpg"
+    },
+    {
+        "product_id": 95,
+        "category_id": 3,
+        "name_ru": "Куриное Филе в Соусе Карри",
+        "name_en": "Chicken Fillet in Curry Sauce",
+        "price": "64 000",
+        "photo": "13.07.24 Yalpiz food 0189.jpg"
+    },
+    {
+        "product_id": 96,
+        "category_id": 3,
+        "name_ru": "Куриные Бедра",
+        "name_en": "Chicken Thighs",
+        "price": "65 000",
+        "photo": "13.07.24 Yalpiz food 0258.jpg"
+    },
+    {
+        "product_id": 97,
+        "category_id": 3,
+        "name_ru": "Куриные Крылья",
+        "name_en": "Chicken Wings",
+        "price": "45 000",
+        "photo": "13.07.24 Yalpiz food 0255.jpg"
+    },
+    {
+        "product_id": 98,
+        "category_id": 3,
+        "name_ru": "Куриные Крылья Свит Чилли",
+        "name_en": "Sweet Chili Chicken Wings",
+        "price": "56 000",
+        "photo": "13.07.24 Yalpiz food 0467.jpg"
+    },
+    {
+        "product_id": 99,
+        "category_id": 3,
+        "name_ru": "Курица с Овощами",
+        "name_en": "Chicken with Vegetables",
+        "price": "52 000",
+        "photo": "13.07.24 Yalpiz food 0174.jpg"
+    },
+    {
+        "product_id": 100,
+        "category_id": 3,
+        "name_ru": "Лаваш Тостер",
+        "name_en": "Toaster Lavash",
+        "price": "35 000",
+        "photo": "yo'q"
+    },
+    {
+        "product_id": 101,
+        "category_id": 5,
+        "name_ru": "Лахмаджун",
+        "name_en": "Lahmacun",
+        "price": "35 000",
+        "photo": "13.07.24 Yalpiz food 0476.jpg"
+    },
+    {
+        "product_id": 102,
+        "category_id": 8,
+        "name_ru": "Лёд",
+        "name_en": "Ice",
+        "price": "5 000",
+        "photo": "Лёд.jpg"
+    },
+    {
+        "product_id": 103,
+        "category_id": 8,
+        "name_ru": "Лимон",
+        "name_en": "Lemon",
+        "price": "15 000",
+        "photo": "Лимон.jpg"
+    },
+    {
+        "product_id": 104,
+        "category_id": 8,
+        "name_ru": "Лимон долька",
+        "name_en": "Lemon Slice",
+        "price": "5 000",
+        "photo": "Лимон долька.jpg"
+    },
+    {
+        "product_id": 105,
+        "category_id": 8,
+        "name_ru": "Лимонад Яблока с клубника 1л",
+        "name_en": "Apple Strawberry Lemonade 1L",
+        "price": "60 000",
+        "photo": "Лимонад Яблока с клубника 1л.jpeg"
+    },
+    {
+        "product_id": 106,
+        "category_id": 8,
+        "name_ru": "Лимонад Яблока с клубника 400мл",
+        "name_en": "Apple Strawberry Lemonade 400ml",
+        "price": "35 000",
+        "photo": "Лимонад Яблока с клубника 1л.jpeg"
+    },
+    {
+        "product_id": 107,
+        "category_id": 8,
+        "name_ru": "Лоттус",
+        "name_en": "Lottus",
+        "price": "40 000",
+        "photo": "yo'q"
+    },
+    {
+        "product_id": 108,
+        "category_id": 9,
+        "name_ru": "Майонез 15гр",
+        "name_en": "Mayonnaise 15g",
+        "price": "5 000",
+        "photo": "Майонез 15гр.jpg"
+    },
+    {
+        "product_id": 109,
+        "category_id": 8,
+        "name_ru": "Манго-Маракуя 1л",
+        "name_en": "Mango-Passion Fruit 1L",
+        "price": "60 000",
+        "photo": "Манго-Маракуя 1л.jpg"
+    },
+    {
+        "product_id": 110,
+        "category_id": 8,
+        "name_ru": "Манго-Маракуя 400мл",
+        "name_en": "Mango-Passion Fruit 400ml",
+        "price": "25 000",
+        "photo": ""
+    },
+    {
+        "product_id": 111,
+        "category_id": 8,
+        "name_ru": "sprite 0.5",
+        "name_en": "Sprite 0.5",
+        "price": "10 000",
+        "photo": "Спрайт 500мл.jpg"
+    },
+    {
+        "product_id": 112,
+        "category_id": 8,
+        "name_ru": "Шоколодный Шейк",
+        "name_en": "Chocolate Shake",
+        "price": "30 000",
+        "photo": "13.07.24 Yalpiz food 0044.jpg"
+    },
+    {
+        "product_id": 113,
+        "category_id": 8,
+        "name_ru": "Молочный Коктейл 1л",
+        "name_en": "Milkshake 1L",
+        "price": "35 000",
+        "photo": "13.07.24 Yalpiz food 0018.jpg"
+    },
+    {
+        "product_id": 114,
+        "category_id": 8,
+        "name_ru": "sprite 0.5",
+        "name_en": "Sprite 0.5",
+        "price": "10 000",
+        "photo": "Спрайт 500мл.jpg"
+    },
+    {
+        "product_id": 115,
+        "category_id": 8,
+        "name_ru": "Мохито 400мл",
+        "name_en": "Mojito 400ml",
+        "price": "30 000",
+        "photo": "13.07.24 Yalpiz food 0002.jpg"
+    },
+    {
+        "product_id": 116,
+        "category_id": 8,
+        "name_ru": "Яблочный Фреш",
+        "name_en": "Apple Fresh",
+        "price": "30 000",
+        "photo": "13.07.24 Yalpiz food 0006.jpg"
+    },
+    {
+        "product_id": 117,
+        "category_id": 8,
+        "name_ru": "Тархун 400мл",
+        "name_en": "Tarkhuna 400ml",
+        "price": "25 000",
+        "photo": "13.07.24 Yalpiz food 0013.jpg"
+    },
+    {
+        "product_id": 118,
+        "category_id": 8,
+        "name_ru": "Чай по Мароккански",
+        "name_en": "Moroccan Tea",
+        "price": "45 000",
+        "photo": "13.07.24 Yalpiz food 0025.jpg"
+    },
+    {
+        "product_id": 119,
+        "category_id": 7,
+        "name_ru": "Пахлава Хавуч",
+        "name_en": "Carrot Baklava",
+        "price": "35 000",
+        "photo": "13.07.24 Yalpiz food 0035.jpg"
+    },
+    {
+        "product_id": 120,
+        "category_id": 7,
+        "name_ru": "Пахлава с Мороженном",
+        "name_en": "Baklava with Ice Cream",
+        "price": "40 000",
+        "photo": "13.07.24 Yalpiz food 0036.jpg"
+    },
+    {
+        "product_id": 121,
+        "category_id": 8,
+        "name_ru": "Мороженое Шарик",
+        "name_en": "Ice Cream Ball",
+        "price": "15 000",
+        "photo": "13.07.24 Yalpiz food 0051.jpg"
+    },
+    {
+        "product_id": 122,
+        "category_id": 1,
+        "name_ru": "Чабан",
+        "name_en": "Chaban",
+        "price": "34 000",
+        "photo": "13.07.24 Yalpiz food 0053.jpg"
+    },
+    {
+        "product_id": 123,
+        "category_id": 1,
+        "name_ru": "Салат Армянский",
+        "name_en": "Armenian Salad",
+        "price": "52 000",
+        "photo": "13.07.24 Yalpiz food 0060.jpg"
+    },
+    {
+        "product_id": 124,
+        "category_id": 1,
+        "name_ru": "Пекинский",
+        "name_en": "Peking Salad",
+        "price": "48 000",
+        "photo": "13.07.24 Yalpiz food 0066.jpg"
+    },
+    {
+        "product_id": 125,
+        "category_id": 1,
+        "name_ru": "Салат Ялпиз",
+        "name_en": "Yalpiz Salad",
+        "price": "52 000",
+        "photo": "13.07.24 Yalpiz food 0070.jpg"
+    },
+    {
+        "product_id": 126,
+        "category_id": 1,
+        "name_ru": "Оливье",
+        "name_en": "Olivier Salad",
+        "price": "39 000",
+        "photo": "13.07.24 Yalpiz food 0073.jpg"
+    },
+    {
+        "product_id": 127,
+        "category_id": 1,
+        "name_ru": "Салат из Рукколы",
+        "name_en": "Arugula Salad",
+        "price": "52 000",
+        "photo": "13.07.24 Yalpiz food 0081.jpg"
+    },
+    {
+        "product_id": 128,
+        "category_id": 1,
+        "name_ru": "Французский",
+        "name_en": "French Salad",
+        "price": "42 000",
+        "photo": "13.07.24 Yalpiz food 0085.jpg"
+    },
+    {
+        "product_id": 129,
+        "category_id": 1,
+        "name_ru": "Руккола",
+        "name_en": "Arugula",
+        "price": "49 000",
+        "photo": "13.07.24 Yalpiz food 0095.jpg"
+    },
+    {
+        "product_id": 130,
+        "category_id": 1,
+        "name_ru": "Греческий",
+        "name_en": "Greek Salad",
+        "price": "48 000",
+        "photo": "13.07.24 Yalpiz food 0110.jpg"
+    },
+    {
+        "product_id": 131,
+        "category_id": 1,
+        "name_ru": "Баклажановый Салат",
+        "name_en": "Eggplant Salad",
+        "price": "45 000",
+        "photo": "13.07.24 Yalpiz food 0115.jpg"
+    },
+    {
+        "product_id": 132,
+        "category_id": 1,
+        "name_ru": "Донер Салат",
+        "name_en": "Doner Salad",
+        "price": "52 000",
+        "photo": "13.07.24 Yalpiz food 0123.jpg"
+    },
+    {
+        "product_id": 133,
+        "category_id": 1,
+        "name_ru": "Салат Каришма",
+        "name_en": "Karishma Salad",
+        "price": "42 000",
+        "photo": "13.07.24 Yalpiz food 0125.jpg"
+    },
+    {
+        "product_id": 134,
+        "category_id": 1,
+        "name_ru": "Баклажан Свит Чилли",
+        "name_en": "Sweet Chili Eggplant",
+        "price": "52 000",
+        "photo": "13.07.24 Yalpiz food 0129.jpg"
+    },
+    {
+        "product_id": 136,
+        "category_id": 1,
+        "name_ru": "Мужской Каприз",
+        "name_en": "Male Caprice",
+        "price": "49 000",
+        "photo": "13.07.24 Yalpiz food 0135.jpg"
+    },
+    {
+        "product_id": 137,
+        "category_id": 1,
+        "name_ru": "Цезарь",
+        "name_en": "Caesar",
+        "price": "52 000",
+        "photo": "13.07.24 Yalpiz food 0136.jpg"
+    },
+    {
+        "product_id": 138,
+        "category_id": 8,
+        "name_ru": "sprite 0.5",
+        "name_en": "Sprite 0.5",
+        "price": "10 000",
+        "photo": "Спрайт 500мл.jpg"
+    },
+    {
+        "product_id": 139,
+        "category_id": 8,
+        "name_ru": "Салат из Авакадо",
+        "name_en": "Avocado Salad",
+        "price": "59 000",
+        "photo": "13.07.24 Yalpiz food 0152.jpg"
+    },
+    {
+        "product_id": 140,
+        "category_id": 3,
+        "name_ru": "Сач Ковурма",
+        "name_en": "Saj Kavourma",
+        "price": "82 000",
+        "photo": "13.07.24 Yalpiz food 0161.jpg"
+    },
+    {
+        "product_id": 141,
+        "category_id": 3,
+        "name_ru": "Паста Альфредо",
+        "name_en": "Pasta Alfredo",
+        "price": "59 000",
+        "photo": "13.07.24 Yalpiz food 0168.jpg"
+    },
+    {
+        "product_id": 142,
+        "category_id": 3,
+        "name_ru": "Паста Болоньезе",
+        "name_en": "Pasta Bolognese",
+        "price": "58 000",
+        "photo": "13.07.24 Yalpiz food 0173.jpg"
+    },
+    {
+        "product_id": 143,
+        "category_id": 3,
+        "name_ru": "Фрикасе из Курицы",
+        "name_en": "Chicken Fricassee",
+        "price": "56 000",
+        "photo": "13.07.24 Yalpiz food 0183.jpg"
+    },
+    {
+        "product_id": 144,
+        "category_id": 3,
+        "name_ru": "Фрикасе из Говядины",
+        "name_en": "Beef Fricassee",
+        "price": "80 000",
+        "photo": "13.07.24 Yalpiz food 0184.jpg"
+    },
+    {
+        "product_id": 145,
+        "category_id": 3,
+        "name_ru": "Мясное Соте",
+        "name_en": "Meat Sauté",
+        "price": "78 000",
+        "photo": "13.07.24 Yalpiz food 0186.jpg"
+    },
+    {
+        "product_id": 146,
+        "category_id": 2,
+        "name_ru": "Чечевичный Суп",
+        "name_en": "Lentil Soup",
+        "price": "26 000",
+        "photo": "13.07.24 Yalpiz food 0194.jpg"
+    },
+    {
+        "product_id": 147,
+        "category_id": 2,
+        "name_ru": "Эзогелин Суп",
+        "name_en": "Ezogelin Soup",
+        "price": "26 000",
+        "photo": "13.07.24 Yalpiz food 0198.jpg"
+    },
+    {
+        "product_id": 148,
+        "category_id": 3,
+        "name_ru": "Вегетарианский",
+        "name_en": "Vegetarian",
+        "price": "35 000",
+        "photo": "13.07.24 Yalpiz food 0210.jpg"
+    },
+    {
+        "product_id": 149,
+        "category_id": 2,
+        "name_ru": "Суп из Языка",
+        "name_en": "Tongue Soup",
+        "price": "42 000",
+        "photo": "13.07.24 Yalpiz food 0222.jpg"
+    },
+    {
+        "product_id": 150,
+        "category_id": 2,
+        "name_ru": "Суп с Фрикадельками",
+        "name_en": "Meatball Soup",
+        "price": "29 000",
+        "photo": "13.07.24 Yalpiz food 0223.jpg"
+    },
+    {
+        "product_id": 151,
+        "category_id": 2,
+        "name_ru": "Куриная Лапша",
+        "name_en": "Chicken Noodle Soup",
+        "price": "22 000",
+        "photo": "13.07.24 Yalpiz food 0228.jpg"
+    },
+    {
+        "product_id": 152,
+        "category_id": 2,
+        "name_ru": "Окрошка",
+        "name_en": "Okroshka",
+        "price": "40 000",
+        "photo": "13.07.24 Yalpiz food 0230.jpg"
+    },
+    {
+        "product_id": 153,
+        "category_id": 3,
+        "name_ru": "Стейк Ти-бон",
+        "name_en": "T-bone Steak",
+        "price": "145 000",
+        "photo": "13.07.24 Yalpiz food 0244.jpg"
+    },
+    {
+        "product_id": 154,
+        "category_id": 3,
+        "name_ru": "Стейк Рибай",
+        "name_en": "Ribeye Steak",
+        "price": "139 000",
+        "photo": "13.07.24 Yalpiz food 0248.jpg"
+    },
+    {
+        "product_id": 155,
+        "category_id": 3,
+        "name_ru": "Куриные Бедра",
+        "name_en": "Chicken Thighs",
+        "price": "65 000",
+        "photo": "13.07.24 Yalpiz food 0258.jpg"
+    },
+    {
+        "product_id": 156,
+        "category_id": 3,
+        "name_ru": "Стейк Классический",
+        "name_en": "Classic Steak",
+        "price": "109 000",
+        "photo": "13.07.24 Yalpiz food 0294.jpg"
+    },
+    {
+        "product_id": 157,
+        "category_id": 3,
+        "name_ru": "Медальоны",
+        "name_en": "Medallions",
+        "price": "99 000",
+        "photo": "13.07.24 Yalpiz food 0297.jpg"
+    },
+    {
+        "product_id": 158,
+        "category_id": 1,
+        "name_ru": "Овощная Нарезка Малая",
+        "name_en": "Small Vegetable Platter",
+        "price": "40 000",
+        "photo": "13.07.24 Yalpiz food 0301.jpg"
+    },
+    {
+        "product_id": 159,
+        "category_id": 3,
+        "name_ru": "Турк Кебаб",
+        "name_en": "Turk Kebab",
+        "price": "38 000",
+        "photo": "13.07.24 Yalpiz food 0303.jpg"
+    },
+    {
+      "product_id": 160,
+        "category_id": 3,
+        "name_ru": "Медальоны в Сливочно Грибном Соусе",
+        "name_en": "Medallions in Creamy Mushroom Sauce",
+        "price": "115 000",
+        "photo": "13.07.24 Yalpiz food 0311.jpg"
+    },
+    {
+        "product_id": 161,
+        "category_id": 3,
+        "name_ru": "Шашлык из Курицы",
+        "name_en": "Chicken Shashlik",
+        "price": "52 000",
+        "photo": "13.07.24 Yalpiz food 0316.jpg"
+    },
+    {
+        "product_id": 162,
+        "category_id": 3,
+        "name_ru": "Колбаски Говяжьи",
+        "name_en": "Beef Sausages",
+        "price": "62 000",
+        "photo": "13.07.24 Yalpiz food 0322.jpg"
+    },
+    {
+        "product_id": 163,
+        "category_id": 3,
+        "name_ru": "Шашлык из Говяжий Вырезки",
+        "name_en": "Beef Tenderloin Shashlik",
+        "price": "78 000",
+        "photo": "13.07.24 Yalpiz food 0326.jpg"
+    },
+    {
+        "product_id": 164,
+        "category_id": 3,
+        "name_ru": "Тандыр лаваш",
+        "name_en": "Tandoor Lavash",
+        "price": "35 000",
+        "photo": "13.07.24 Yalpiz food 0329.jpg"
+    },
+    {
+        "product_id": 165,
+        "category_id": 3,
+        "name_ru": "Мини Бургеры с Котлетой",
+        "name_en": "Mini Burgers with Patty",
+        "price": "79 000",
+        "photo": "13.07.24 Yalpiz food 0336.jpg"
+    },
+    {
+        "product_id": 166,
+        "category_id": 3,
+        "name_ru": "Мини Бургеры со Стейком",
+        "name_en": "Mini Burgers with Steak",
+        "price": "105 000",
+        "photo": "13.07.24 Yalpiz food 0337.jpg"
+    },
+    {
+        "product_id": 167,
+        "category_id": 3,
+        "name_ru": "Медальоны в Гранатовым Соусе",
+        "name_en": "Medallions in Pomegranate Sauce",
+        "price": "109 000",
+        "photo": "13.07.24 Yalpiz food 0341.jpg"
+    },
+    {
+        "product_id": 168,
+        "category_id": 3,
+        "name_ru": "Тандыр Бейти",
+        "name_en": "Tandoor Beyti",
+        "price": "64 000",
+        "photo": "13.07.24 Yalpiz food 0360.jpg"
+    },
+    {
+        "product_id": 169,
+        "category_id": 3,
+        "name_ru": "Медальоны с Ананасами",
+        "name_en": "Medallions with Pineapples",
+        "price": "109 000",
+        "photo": "13.07.24 Yalpiz food 0367.jpg"
+    },
+    {
+        "product_id": 170,
+        "category_id": 3,
+        "name_ru": "Судак на мангале",
+        "name_en": "Grilled Pike Perch",
+        "price": "79 000",
+        "photo": "13.07.24 Yalpiz food 0377.jpg"
+    },
+    {
+        "product_id": 171,
+        "category_id": 3,
+        "name_ru": "Ялпиз бургер",
+        "name_en": "Yalpiz Burger",
+        "price": "49 000",
+        "photo": "13.07.24 Yalpiz food 0387.jpg"
+    },
+    {
+        "product_id": 172,
+        "category_id": 3,
+        "name_ru": "Смешанный Куриный Мясной Шашлык",
+        "name_en": "Mixed Chicken Meat Shashlik",
+        "price": "120 000",
+        "photo": "13.07.24 Yalpiz food 0391.jpg"
+    },
+    {
+        "product_id": 173,
+        "category_id": 4,
+        "name_ru": "Фирменная Голень Ягненка",
+        "name_en": "Signature Lamb Shank",
+        "price": "109 000",
+        "photo": "13.07.24 Yalpiz food 0407.jpg"
+    },
+    {
+        "product_id": 174,
+        "category_id": 5,
+        "name_ru": "Пиде с Мясом",
+        "name_en": "Meat Pide",
+        "price": "54 000",
+        "photo": "13.07.24 Yalpiz food 0415.jpg"
+    },
+    {
+        "product_id": 175,
+        "category_id": 5,
+        "name_ru": "Пиде с Сыром",
+        "name_en": "Cheese Pide",
+        "price": "48 000",
+        "photo": "13.07.24 Yalpiz food 0418.jpg"
+    },
+    {
+        "product_id": 176,
+        "category_id": 3,
+        "name_ru": "Судак в Кляре",
+        "name_en": "Pike Perch in Batter",
+        "price": "70 000",
+        "photo": "13.07.24 Yalpiz food 0423.jpg"
+    },
+    {
+        "product_id": 177,
+        "category_id": 5,
+        "name_ru": "Кавурма Пиде",
+        "name_en": "Kavurma Pide",
+        "price": "75 000",
+        "photo": "13.07.24 Yalpiz food 0426.jpg"
+    },
+    {
+      "product_id": 178,
+        "category_id": 5,
+        "name_ru": "Кавурма Пиде",
+        "name_en": "Kavurma Pide",
+        "price": "75 000",
+        "photo": "13.07.24 Yalpiz food 0426.jpg"
+    },
+    {
+        "product_id": 179,
+        "category_id": 3,
+        "name_ru": "Ялпиз бургер Детский",
+        "name_en": "Yalpiz Kids Burger",
+        "price": "35 000",
+        "photo": "13.07.24 Yalpiz food 0429.jpg"
+    },
+    {
+        "product_id": 180,
+        "category_id": 5,
+        "name_ru": "Мармарис",
+        "name_en": "Marmaris",
+        "price": "75 000",
+        "photo": "13.07.24 Yalpiz food 0436.jpg"
+    },
+    {
+        "product_id": 181,
+        "category_id": 5,
+        "name_ru": "Кавурма Пиде",
+        "name_en": "Kavurma Pide",
+        "price": "75 000",
+        "photo": "13.07.24 Yalpiz food 0426.jpg"
+    },
+    {
+        "product_id": 182,
+        "category_id": 5,
+        "name_ru": "Пицца комбинированный",
+        "name_en": "Combination Pizza",
+        "price": "75 000",
+        "photo": "13.07.24 Yalpiz food 0446.jpg"
+    },
+    {
+        "product_id": 183,
+        "category_id": 5,
+        "name_ru": "Пицца Пепперони",
+        "name_en": "Pepperoni Pizza",
+        "price": "65 000",
+        "photo": "13.07.24 Yalpiz food 0453.jpg"
+    },
+    {
+        "product_id": 184,
+        "category_id": 5,
+        "name_ru": "Хлеб Ассорти",
+        "name_en": "Assorted Bread",
+        "price": "32 000",
+        "photo": "13.07.24 Yalpiz food 0459.jpg"
+    }
+]
